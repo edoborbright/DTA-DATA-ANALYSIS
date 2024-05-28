@@ -9,3 +9,10 @@ This class is to enable us understand the basic knowledge on data analysis
 #### Data analytics
 
 #### Data Visulaization
+
+### Tools used
+
+- SQL [Download here](www.sql.com)
+- Microsoft Excel [Download here](www.microsoft.com)
+- Power BI [Download here](www.powerbi.com)
+- Google Sheets **[Download here](www.goolesheets.com)**
